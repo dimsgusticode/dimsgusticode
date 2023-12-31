@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dimsgusticode
 - 👀 I’m interested in web and mobile apps
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me Instagram @dimsgusti
+- 🌱 I’m currently learning MERN Stack and Flutter
+- 📫 How to reach me @dimsgusti
